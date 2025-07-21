@@ -20,6 +20,7 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Cayra19&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 My GitHub Stats
 ![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayra19&show_icons=true&theme=tokyonight)
