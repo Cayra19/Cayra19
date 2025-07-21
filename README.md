@@ -8,7 +8,7 @@
 ## 🚀 Languages & Technologies
 
 <p align="center">
-  <span align="left" style="display:inline-block; width:48%; vertical-align:top;">>
+  <span align="left" style="display:inline-block; width:48%; vertical-align:top;">
   ### 💻 Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
