@@ -8,8 +8,8 @@
 ## 🚀 Languages & Technologies
 
 <p align="center">
-  <span align="left" style="display:inline-block; width:48%; vertical-align:top;">
-  ### 💻 Languages
+ <span align="left" style="display:inline-block; width:48%; vertical-align:top;">
+    <strong>💻 Languages</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -18,9 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
 </span>
 
- <span align="right" style="display:inline-block; width:48%; vertical-align:top;">
-### 🛠️ Tools & Frameworks
-<p >
+<span align="right" style="display:inline-block; width:48%; vertical-align:top;">
+    <strong>🛠️ Tools & Frameworks</strong><br/><br/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" title="Postman"/>
