@@ -42,6 +42,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Cayra19&label=Profile%20views&color=0e75b6&style=flat)
 
+<sub>📊 *Profile views counter active since July 2025*</sub>
+
+
 ## 🌐 Connect with me
 
 <p align="left">
