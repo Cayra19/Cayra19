@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ritika Kumari
 
 🎓 A passionate **Software Developer** who loves writing clean, efficient Java code and crafting meaningful user experiences.  
+
 💡 Eager to solve real-world problems and contribute to impactful, innovative projects.
 
 ---
@@ -16,9 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
 </p>
-
+<br/><br/>
 <p>
-    <strong>🛠️ Tools & Frameworks</strong><br/><br/>
+    <strong>🛠️ Tools & Frameworks</strong>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" title="Postman"/>
