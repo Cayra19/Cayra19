@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ritika Kumari
 
-<img src="https://github.com/Cayra19/Cayra19/blob/main/girlCoder.gif?raw=true" width="250"/>
+<p align="center">
+<img src="https://github.com/Cayra19/Cayra19/blob/main/girlCoder.gif?raw=true" width="250"/></p>
 
 
 ## 👩‍💻 About Me
