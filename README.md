@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Ritika Kumari
 
-<p align="center">
-<img src="https://github.com/Cayra19/Cayra19/blob/main/girlCoder.gif?raw=true" width="250"/></p>
+<h1 align="center">👋 Hi, I'm Ritika Kumari</h1>
+<p align="center">  
+<img src="https://github.com/Cayra19/Cayra19/blob/main/girlCoder.gif?raw=true" width="250"/>
+</p>
 
 
 ## 👩‍💻 About Me
