@@ -12,6 +12,7 @@
 - 💡 Eager to solve real-world problems and contribute to impactful, innovative projects.  
 - 🏆 Open to software roles, internships & remote freelance projects
 - ♟️ When I’m not coding, I enjoy playing chess, e-games, and learning new tech trends.
+- 📧 Reach out to me at: ritika1905kumari@gmail.com
 ---
 
 ## 💼 Featured Projects
