@@ -7,39 +7,38 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Master's in Computer Applications  
-- 🌱 A passionate **Software Developer** who loves writing clean, efficient Java code and crafting meaningful user experiences.  
-- 💡 Eager to solve real-world problems and contribute to impactful, innovative projects.  
-- 🏆 Open to software roles, internships & remote freelance projects
-- ♟️ When I’m not coding, I enjoy playing chess, e-games, and learning new tech trends.
-- 📧 Reach out to me at: ritika1905kumari@gmail.com
+Frontend Developer specializing in **React and React Native**, with hands-on experience building responsive web and mobile user interfaces through internships and real-world projects.
+
+I enjoy translating UI designs into clean, reusable components, managing state using hooks, and integrating frontend applications with APIs.  
+Currently seeking **Frontend / React Developer** opportunities where I can contribute to user-focused products and grow as a software engineer.
+
+📧 Contact: ritika1905kumari@gmail.com
 ---
 
 ## 💼 Featured Projects
 
-- 🔗 [**ChatApp**](https://github.com/Cayra19/ChatApp) — Real-time chat application built with Core Java, Networking in Java and MySQL.  
-- 📋 [**Routine-Tracker**](https://github.com/developerOfIndia/Routine-Tracker) — Users can save, update, view, and manage their daily tasks. They can also print, copy, or download their routines.
-
+- 💬 [**ChatApp**](https://github.com/Cayra19/ChatApp) — Academic real-time chat application built with Core Java, socket programming and MySQL.
 ----
 
-## 🚀 Languages & Technologies
-<p>
-    <strong>💻 Languages</strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/><br/><br/>
-</p>
-<p>
- <strong>🛠️ Tools & Frameworks</strong> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-</p>
+## 🚀 Technologies
+**Frontend**
+- React
+- React Native
+- JavaScript
+- HTML5
+- CSS3
 
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Android Studio
+
+**Familiar With**
+- Java
+- REST APIs
+- SQL
+- PostgreSQL
 
 ---
 
