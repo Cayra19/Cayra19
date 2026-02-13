@@ -7,39 +7,46 @@
 
 ## 👩‍💻 About Me
 
-Frontend Developer specializing in **React and React Native**, with hands-on experience building responsive web and mobile user interfaces through internships and real-world projects.
+Frontend Developer specializing in React and React Native, with hands-on experience building scalable, responsive web and mobile applications through internships and real-world projects.
 
-I enjoy translating UI designs into clean, reusable components, managing state using hooks, and integrating frontend applications with APIs.  
-Currently seeking **Frontend / React Developer** opportunities where I can contribute to user-focused products and grow as a software engineer.
+I enjoy transforming complex requirements into clean, reusable UI components, implementing role-based interfaces, and integrating secure REST APIs.
+Passionate about building user-focused, data-driven products.
+
+Currently seeking **Frontend / React Developer** opportunities where I can contribute to impactful products and continue growing as a software engineer.
 
 📧 Contact: ritika1905kumari@gmail.com
 ---
 
 ## 💼 Featured Projects
 
-- 💬 [**ChatApp**](https://github.com/Cayra19/ChatApp) — Academic real-time chat application built with Core Java, socket programming and MySQL.
+- 🌍 [**Global IP Intelligence Platform**](https://github.com/Cayra19/Global-IP-Intelligence-Platform) – React-based analytics dashboard with secure Spring Boot API integration and role-based authentication, and data-driven visualization modules.
+
+- 💬 [**ChatApp – Real-Time Messaging System**](https://github.com/Cayra19/ChatApp) — Academic real-time chat application built with Core Java, socket programming and MySQL.
 ----
 
 ## 🚀 Technologies
 **Frontend**
-- React
+- React (Hooks, Context API)
 - React Native
-- JavaScript
+- JavaScript (ES6+)
 - HTML5
 - CSS3
+- Tailwind CSS
+
+**Backend Familiarity**
+- Java
+- Spring Boot
+- REST APIs
+- JWT Authentication
+- SQL
+- PostgreSQL
 
 **Tools**
 - Git
 - GitHub
 - VS Code
 - Android Studio
-
-**Familiar With**
-- Java
-- REST APIs
-- SQL
-- PostgreSQL
-
+  
 ---
 
 ## 📊 My GitHub Stats
