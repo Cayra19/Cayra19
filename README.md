@@ -12,7 +12,7 @@ Frontend Developer specializing in React and React Native, with hands-on experie
 I enjoy transforming complex requirements into clean, reusable UI components, implementing role-based interfaces, and integrating secure REST APIs.
 Passionate about building user-focused, data-driven products.
 
-Currently seeking **Frontend / React Developer** opportunities where I can contribute to impactful products and continue growing as a software engineer.
+Currently exploring **Frontend / React / React Native opportunities** where I can contribute to impactful products and continue growing as a software engineer.
 
 📧 Contact: ritika1905kumari@gmail.com
 ---
